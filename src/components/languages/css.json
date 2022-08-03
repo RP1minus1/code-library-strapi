@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_languages_csses",
+  "info": {
+    "displayName": "CSS",
+    "icon": "paint-brush"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "richtext"
+    }
+  }
+}

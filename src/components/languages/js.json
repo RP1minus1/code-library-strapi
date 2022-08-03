@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_languages_js",
+  "info": {
+    "displayName": "JS",
+    "icon": "atom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "richtext"
+    }
+  }
+}

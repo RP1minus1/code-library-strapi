@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_languages_htmls",
+  "info": {
+    "displayName": "HTML",
+    "icon": "arrow-alt-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "richtext"
+    }
+  }
+}

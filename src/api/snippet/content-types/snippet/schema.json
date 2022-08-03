@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "snippets",
+  "info": {
+    "singularName": "snippet",
+    "pluralName": "snippets",
+    "displayName": "Snippet",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "code": {
+      "type": "dynamiczone",
+      "components": [
+        "languages.js",
+        "languages.html",
+        "languages.css",
+        "main.instructions"
+      ]
+    },
+    "categories": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::category.category",
+      "mappedBy": "snippets"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::tag.tag",
+      "inversedBy": "snippets"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_main_snippets",
+  "info": {
+    "displayName": "snippet",
+    "icon": "code"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "richtext"
+    }
+  }
+}
