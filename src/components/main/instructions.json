@@ -2,12 +2,16 @@
   "collectionName": "components_main_instructions",
   "info": {
     "displayName": "Instructions",
-    "icon": "align-justify"
+    "icon": "align-justify",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "body": {
+    "code": {
       "type": "richtext"
+    },
+    "heading": {
+      "type": "string"
     }
   }
 }

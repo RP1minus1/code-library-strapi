@@ -2,12 +2,16 @@
   "collectionName": "components_languages_csses",
   "info": {
     "displayName": "CSS",
-    "icon": "paint-brush"
+    "icon": "paint-brush",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "code": {
       "type": "richtext"
+    },
+    "heading": {
+      "type": "string"
     }
   }
 }

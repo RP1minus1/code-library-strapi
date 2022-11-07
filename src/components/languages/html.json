@@ -2,12 +2,16 @@
   "collectionName": "components_languages_htmls",
   "info": {
     "displayName": "HTML",
-    "icon": "arrow-alt-circle-down"
+    "icon": "arrow-alt-circle-down",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "code": {
       "type": "richtext"
+    },
+    "heading": {
+      "type": "string"
     }
   }
 }

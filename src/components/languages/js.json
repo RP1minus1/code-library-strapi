@@ -9,6 +9,9 @@
   "attributes": {
     "code": {
       "type": "richtext"
+    },
+    "heading": {
+      "type": "string"
     }
   }
 }
