@@ -11,7 +11,6 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@notum-cz/strapi-plugin-content-versioning": "^0.4.4",
     "@strapi/plugin-i18n": "4.3.2",
     "@strapi/plugin-users-permissions": "4.3.2",
     "@strapi/strapi": "4.3.2",
